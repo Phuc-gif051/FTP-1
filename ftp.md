@@ -1,7 +1,7 @@
 # FTP
 
 ## I.Khái niệm 
-- File Transfer Protocol ( FTP ) là một chuẩn giao thức mạng sử dụng để chuyển các tập tin máy tính giữa một khách hàng và máy chủ trên một mạng máy tính.
+- File Transfer Protocol ( FTP ) là một chuẩn giao thức mạng sử dụng để chuyển các tập tin máy tính giữa một máy khách và máy chủ trên một mạng máy tính.
 
 ## II.Cơ chế
 ### 1.Mô hình hoạt động
