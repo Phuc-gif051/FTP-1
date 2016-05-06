@@ -101,7 +101,9 @@ Cơ chế:
 - Tìm và bỏ chú thích các dòng dưới đây:
 
 `local_enable = YES`
+
 `write_enable = YES`
+
 `chroot_local_user = YES`
 
 ### Bước 3:
