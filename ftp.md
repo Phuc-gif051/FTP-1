@@ -106,14 +106,14 @@ Cơ chế:
 
 ### Bước 3:
 - Tạo một thư mục mà bạn muốn để lưu trữ dữ liệu FTP.
-- Ví dụ tôi sẽ tạo ra trong / (thư mục root) như dưới đây.
+- Ví dụ tôi sẽ tạo ra trong /home như dưới đây.
 
-<img src="http://img.prntscr.com/img?url=http://i.imgur.com/SeGlZdu.png">
+<img src="http://img.prntscr.com/img?url=http://i.imgur.com/gZuuIAL.png">
 
 ### Bước 4:
 - Tạo tài khoản truy nhập FTP server
 
-<img src="http://img.prntscr.com/img?url=http://i.imgur.com/BuNXjdj.png">
+<img src="http://img.prntscr.com/img?url=http://i.imgur.com/rUl0G81.png">
 
 ### Bước 5:
 - Khởi động dịch vụ FTP server
@@ -127,12 +127,22 @@ Cơ chế:
 ### Bước 6:
 - Tạo dữ liệu trong thư mục ftp
 
-<img src="http://img.prntscr.com/img?url=http://i.imgur.com/XApZR3Z.png">
+<img src="http://img.prntscr.com/img?url=http://i.imgur.com/GDvdtpI.png">
 
 ### Bước 7:
 - Truy nhập FTP server từ trình duyệt với địa chỉ  ftp://ftp-server-IP
 
 <img src="http://img.prntscr.com/img?url=http://i.imgur.com/LW54Llp.png">
+- Đăng nhập tài khoản và kiểm tra kết quả
+
+<img src="http://img.prntscr.com/img?url=http://i.imgur.com/kZXb1ou.png">
 
 ### Lưu ý:
-- Khi không thể kết nối đến FTP server thì có thể do iptables trên server.
+- Khi không thể kết nối đến FTP server thì có thể do Iptables, SELinux trên server.
+- Có nhiều cách để truy cập FTP server như dùng trình duyệt, sử dụng command line, winscp, filezilla ...
+
+## IV. Tham khảo:
+- http://sinhvienit.net/forum/tim-hieu-ve-giao-thuc-ftp.28754.html
+- http://www.krizna.com/centos/how-to-configure-ftp-server-on-centos-6/
+
+
