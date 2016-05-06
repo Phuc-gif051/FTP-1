@@ -113,7 +113,7 @@ Cơ chế:
 ### Bước 4:
 - Tạo tài khoản truy nhập FTP server
 
-<img src="http://img.prntscr.com/img?url=http://i.imgur.com/e7CWDUN.png">
+<img src="http://img.prntscr.com/img?url=http://i.imgur.com/BuNXjdj.png">
 
 ### Bước 5:
 - Khởi động dịch vụ FTP server
@@ -124,7 +124,15 @@ Cơ chế:
 
 `chkconfig --levels 235 vsftpd on`
 
+### Bước 6:
+- Tạo dữ liệu trong thư mục ftp
 
+<img src="http://img.prntscr.com/img?url=http://i.imgur.com/XApZR3Z.png">
 
+### Bước 7:
+- Truy nhập FTP server từ trình duyệt với địa chỉ  ftp://ftp-server-IP
 
+<img src="http://img.prntscr.com/img?url=http://i.imgur.com/LW54Llp.png">
 
+### Lưu ý:
+- Khi không thể kết nối đến FTP server thì có thể do iptables trên server.
