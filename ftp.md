@@ -144,7 +144,7 @@ Cơ chế:
 - Có nhiều cách để truy cập FTP server như dùng trình duyệt, sử dụng command line, winscp, filezilla ...
 
 ## IV. Tham khảo:
-- http://sinhvienit.net/forum/tim-hieu-ve-giao-thuc-ftp.28754.html
+
 - http://www.krizna.com/centos/how-to-configure-ftp-server-on-centos-6/
 
 
